@@ -1,0 +1,47 @@
+footer{
+    text-align: center;
+    padding: 3px;
+    background-color: rgba(128, 128, 128, 0.238);
+    color: black;
+    position:absolute;
+    bottom: 0;
+    width: 100%;
+}
+.inhalt{
+position: relative;
+height: 400px;
+overflow: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+.login{
+    text-align: center;
+    padding-top: 15px;
+}
+
+label{
+    margin-bottom: 10px;
+}
+
+h4{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 300px;
+}
+
+table{
+    margin-left: 390px;
+}
+
+th, td {
+  padding-top: 1px;
+  padding-bottom: 2px;
+  padding-left: 30px;
+  padding-right: 40px;
+} 
+img{
+   margin-left: 300px;
+}
